@@ -1154,7 +1154,7 @@
         },
         "toughTimes": {
             "name": "These are difficult times",
-            "pickup": "Reduces incoming damage by 14%.",
+            "pickup": "Reduce damage by 14%.",
             "description": "<g>Add resources</c> approx <g>14 <c_stack>(+Each stock)</c>.",
             "destination": "18601,\nIce valley,\nJupiter",
             "date": "9/29/2056",
@@ -1186,8 +1186,8 @@
             "priority": "<g>First / Biology</c>",
         },
         "ukulele": {
-            "name": "on the ukulele",
-            "pickup": "..And his music is electric.",
+            "name": "Akulele",
+            "pickup": "..And this is electronic music..",
             "description": "<y>20% chance.</c> in case of fire <y>string of lights</c> Give <y>66% <c_stack>(+66% for battery) <y>damages</c> during the day <y>3</c> target.",
             "destination": "skin station,\nBox.364\nmars",
             "date": "06/6/2056",
@@ -1260,16 +1260,16 @@
             "story": "Hello, yes I am talking about text.\n\nHere's why you should upgrade your drone. It is compatible with all KS-I equipped UAVs, even non-combat UAVs, so you can configure additional compression units to support combat operations. Turn it off and the drone's AI will adjust itself. Both have rocket launchers and mortars. Let's continue this arms race?",
         },
         "goldenGun": {
-            "name": "The golden gun",
-            "pickup": "More gold, more damage.",
+            "name": "Gold armor",
+            "pickup": "The more money, the more evil.",
             "description": "company <y>more damage</c> Appropriate <y>now it's summer</c>, It depends <y>40% damage</c>. The upper limit is <y>700 <c_stack>(-50%) per group. <y>hot</c>. Change with time.",
             "destination": "Jacob: b\n??",
             "date": "12/19/1974",
             "story": "Am I apprehensive? I love the process. Maybe in the oven.",
         },
         "56LeafClover": {
-            "name": "56 clover leaves",
-            "pickup": "Elite mobs have a chance to drop items..",
+            "name": "56 Yes",
+            "pickup": "Elite factions have the ability to throw items..",
             "description": "Educated people a <b>4% <c_stack>(+1.5% per share. <b>Spread the word</c> from <b>Let things go</c>.",
             "destination": "777,\nLucky waterfall,\nThe world",
             "date": "12/24/2056",
@@ -1335,7 +1335,7 @@
         },
         "thallium": {
             "name": "The worker",
-            "pickup": "Able to slow down enemies and deal damage over time.",
+            "pickup": "Ability to destroy and reduce enemies in time.",
             "description": "<y>10% <c_stack>(+10% on all shares)</c> There is a possibility of loss <y>Deals 2x500% damage per second to an enemy</c> And so slowly <b>-movement speed 150%</c> In that time <y>3 seconds</c>.",
             "destination": "0909,\nK&K Link,\nworld",
             "date": "5/14/2056",
@@ -1368,7 +1368,7 @@
         },
         "permafrost": {
             "name": "Freeze permanently",
-            "pickup": "Ability to freeze enemies on impact.",
+            "pickup": "Ability to maintain influence over the enemy..",
             "description": "<y>13%</c> Opportunity to take vacation <y>Freezes enemies about 1.5 section</c> is slowing down <b>-80% of movement speed.</c> about <b>3 <c_stack>(+1.5 per stack) <b>section</c>.",
             "destination": "10681,\nice volleyball,\nInstead of *",
             "date": "4/17/2056",
@@ -1433,7 +1433,7 @@
         },
         "brilliantBehemoth": {
             "name": "A bright animal",
-            "pickup": "Each attack explodes.!",
+            "pickup": "All your attacks will fail!",
             "description": "Both <y>The attack broke out</c> About bonuses <y>20 <c_stack>(+20 per stack) <y>All damage</c> near the enemy.",
             "destination": "Francisco M\n29th street\n'powder barrel'\nOld York\nmercury",
             "date": "11/1/2056",
@@ -1474,7 +1474,7 @@
         },
         "theOlLopper": {
             "name": "an old carver",
-            "pickup": "Enemies take more damage when their health is low.",
+            "pickup": "Enemies' health will take more damage..",
             "description": "shops <y>Special wound</c> High for low health enemies <y>+\u0bec\u0be6% <c_stack>(+\u0bec\u0be6% per stack) <y>wound</c>.",
             "destination": "Box 11,\nThe Suez Guide,\nJupiter",
             "date": "3/2/2056",
@@ -1515,7 +1515,7 @@
         },
         "firemansBoots": {
             "name": "fire shoes",
-            "pickup": "you fight fire with fire..",
+            "pickup": "Fire hose..",
             "description": "March remains <r>fire signs<y> I burn more than that <y>System efficiency 35% <c_stack>(+20% per lot) <y>shame</c>.",
             "destination": "U. Spring,\norbital station,\nday",
             "date": "8/8/2056",
@@ -1565,14 +1565,14 @@
         },
         "snowglobe": {
             "name": "Snow sports",
-            "pickup": "Freezes enemies for 8 seconds.",
+            "pickup": "Hold the enemy for 8 seconds.",
             "description": "I'm calling <b>snow storm</c> What is <b>will be broken</c> animan or monkey <y>50% chance for 7 seconds</c>.",
             "destination": "the third igloo,\nTundra region,\nNeptune",
             "date": "11/25/2056",
             "story": "Go, my darling, you have a world of ice! See what's inside? Well, it depends on your favorite video game! I hope you like it, I tried hard. lower!",
         },
         "explorersKey": {
-            "name": "Explorer Key",
+            "name": "research button",
             "pickup": "Open the entire box within 20 meters.",
             "description": "<b>Open all the boxes</c> HE IS <y>20 meters</c>.",
             "destination": "Trade association\nHermes",
@@ -1598,7 +1598,7 @@
         },
         "jarOfSouls": {
             "name": "you can",
-            "pickup": "Every enemy on the screen summons a monster..",
+            "pickup": "Summons all enemies on screen..",
             "description": "<b>remove all enemies</c> and: <b>the life</c> years <y>fight with yourself</c>. demons live <b>15 seconds</c> So what if? <y>70% lost.</c>.",
             "destination": "Crypt 74,\nW. Road,\n??",
             "date": "6/6/2056",
@@ -1638,7 +1638,7 @@
             "priority": "<y>The</c>",
         },
         "goldPlatedBomb": {
-            "name": "golden bomb",
+            "name": "A golden ball",
             "pickup": "Take 50% of the money and throw it away.",
             "description": "Use it <y>50% of your gold</c> Making bombs, doing business <y>1 damage for every gold spent</c>. <y>Return 20% on gold spent</c> For murder.",
             "destination": "Warrior,\nHeron TC,\nNepton",
@@ -1687,7 +1687,7 @@
         },
         "prescriptions": {
             "name": "recipe",
-            "pickup": "Increases damage and attack speed for 8 seconds..",
+            "pickup": "Take damage and stand still for 8 seconds..",
             "description": "volume <y>Counts to 30%</c> alone <y>Attack speed is 40%</c> because of <y>8 seconds</c>.",
             "destination": "site,\nDepartment of Science.\nVenus",
             "date": "1/18/2056",
@@ -1720,7 +1720,7 @@
         },
         "pillagedGold": {
             "name": "Grab the gold",
-            "pickup": "Enemies that attack within 14 seconds will drop gold coins..",
+            "pickup": "Pressing enemies for 14 seconds will drop gold.",
             "description": "In fact <y>14 seconds</c>, All shots <y>Drop the gold</c>.",
             "destination": "Emergency route,\nIn 2008,\nto break",
             "date": "08/8/2056",
@@ -1728,7 +1728,7 @@
         },
         "captainsBrooch": {
             "name": "Captain Broach",
-            "pickup": "One man's trash is another man's treasure.",
+            "pickup": "One person\u2019s loss is another\u2019s property..",
             "description": "ONE <b>breasts</c> Almost everything. This is the price of the box. <y>to double</c>.",
             "destination": "Box 1,\nhappy boy,\nVenus",
             "date": "9/12/2056",
@@ -1752,7 +1752,7 @@
         },
         "glowingMeteorite": {
             "name": "light meter",
-            "pickup": "Rain falls from the sky, destroying both enemies and allies..",
+            "pickup": "Rain falls from the sky, damaging enemies and allies alike.",
             "description": "<b>Meteors fall from the sky.</c>, dangerous. <r>enemies and friends</c> B <y>220% damage.</c>. will be. <y>8 seconds</c>.",
             "destination": "8912,\n6 planets,\nSaturn",
             "date": "6/18/2056",
@@ -1866,7 +1866,7 @@
         },
         "mocha": {
             "name": "Say something",
-            "pickup": "Attack speed and speed increase slightly.",
+            "pickup": "Improve loading speed and browsing speed..",
             "description": "Application form <y>speed</c> advertise <b>7.5% <c_stack>(+7.5% weekly)</c> D <y>attack</c> advertise <y>6 <c_stack>(+6 per stack)</c>.",
             "destination": "10th Street\nBuilding. 3\nDurandal,\nhyperion",
             "date": "7/22/2056",
@@ -1874,7 +1874,7 @@
             "story": "Thank you for ordering DropCup!\n--\nYour order should have arrived\n3 months\n--\nGet instant updates and exclusive offers with DropCup!\n--\nsolution:\nGet the true speed of Mach 1 (3)\nbed 1\n(Price: $19.94.)",
         },
         "bottledChaos": {
-            "name": "Chaos in a bottle",
+            "name": "Glass Rebellion",
             "pickup": "Using a weapon causes a weapon effect..",
             "description": "Keep equipment running <y>incomplete set</c> effect <y>1 <c_stack>(+1 piece in a set)</c> an hour).",
             "destination": "<r>Return to the manufacturer's page.</c>",
@@ -1942,8 +1942,8 @@
             "story": "His child!! Happy birthday, I have these old shoes at home, they are old but they look good. \nMom always knows her garden, so visit her next summer and see how crazy she is. \nIs this your friend?? I want to see you haha\nIt's time for you to call me!!!!\nline",
         },
         "razorPenny": {
-            "name": "Penny's Razor",
-            "pickup": "Critical hit chance increased slightly. Critical hits are rewarded with gold.",
+            "name": "sharp weapons",
+            "pickup": "The main marketing options have increased slightly. Criticism is gold..",
             "description": "taken <y>earn 3% <c_stack>(+3% deposit)</c>. <y>The big brand is reduced to $1 <c_stack>(+$1 per account)<y> gold</c>.",
             "destination": "Accommodation 24,\nAnnelsberg,\nthe music",
             "date": "1/22/2056",
@@ -2016,7 +2016,7 @@
         },
         "classifiedAccessCodes": {
             "name": "Unique access code",
-            "pickup": "Access to deadly weapons against teleport bosses..",
+            "pickup": "Get a killer from the owner of the phone.",
             "description": "and <y>Cannon Atlas</c> Each step is visible and functional <y>40 <c_stack>(+20% per pile)<y> Most owners complete a health report after an accident</c>.",
             "destination": "Service number. 24,\n[Acceptance],\n[Acceptance]",
             "date": "10/2/2056",
